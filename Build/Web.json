@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Panales Solares",
+"productName": "Paneles Solares",
 "productVersion": "1.0",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.10f1"
+"unityVersion": "2019.4.11f1"
 }
